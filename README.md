@@ -15,7 +15,7 @@ This portfolio contains selected projects that demonstrate my experience in:
 
 ---
 
-## Featured Projects
+## Projects
 
 ### Parsian – ASP.NET Core Migration
 Migration of a legacy ASP.NET MVC5 / EF6 application to ASP.NET Core 8 with Code First architecture, cookie authentication, session migration, and updated project structure.
