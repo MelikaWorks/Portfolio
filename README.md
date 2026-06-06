@@ -1,6 +1,8 @@
 # Hi, I'm Melika Mehranpour 👋
 
-Senior Software Engineer (.NET) with 15+ years of experience designing, developing, and modernizing enterprise applications.
+Senior Software Engineer (.NET) with over 15 years of experience designing, developing, and modernizing enterprise applications.
+
+Experienced in designing scalable enterprise solutions across manufacturing, ERP, HR, PMO, reporting, and workflow-driven environments.
 
 My work focuses on building business-critical systems, workflow automation platforms, ERP customizations, reporting solutions, and data-driven applications using .NET, Python, SQL Server, PostgreSQL, Power BI, SharePoint, and Odoo.
 
@@ -28,49 +30,35 @@ A multi-organization performance evaluation platform featuring role-based access
 
 **Technologies:** Python, Django, PostgreSQL, Chart.js
 
----
-
 ### Parkban Management System
 Enterprise-scale desktop solution with more than 120 forms for managing parking attendants, payroll, attendance tracking, equipment management, operational workflows, and reporting.
 
 **Technologies:** C#, WinForms, SQL Server, Excel Integration
-
----
 
 ### Parsian Modernization Project
 Migration of a large legacy ASP.NET MVC application to ASP.NET Core using modern architecture patterns, improved maintainability, and Code First development.
 
 **Technologies:** ASP.NET Core, EF Core, SQL Server, C#
 
----
-
-### Translation Order Platform
-Workflow-driven translation management platform featuring role-based access control, dynamic pricing, file processing, order tracking, and CI/CD integration.
-
-**Technologies:** ASP.NET MVC, Entity Framework, SQL Server, GitHub Actions
-
----
-
 ### Odoo Secure Banking Gateway Integration
 Enterprise banking gateway integration project involving secure communication, authentication workflows, and ERP integration. Public repository contains architecture and documentation only due to NDA and security restrictions.
 
 **Technologies:** Odoo, Python, PostgreSQL, SOAP, REST APIs
-
----
 
 ### SharePoint Project Server (PWA) PMO Case Study
 Enterprise project management and PMO implementation case study covering governance, workflows, reporting, portfolio management, and project tracking.
 
 **Technologies:** SharePoint, Project Server (PWA), PMO
 
----
-
 ### Power BI Sales Analysis
 Advanced business intelligence solution featuring KPI dashboards, DAX calculations, drillthrough reports, time intelligence (YoY, MoM, YTD), and interactive analytics.
 
 **Technologies:** Power BI, DAX, Excel
 
----
+### Translation Order Platform
+Workflow-driven translation management platform featuring role-based access control, dynamic pricing, file processing, order tracking, and CI/CD integration.
+
+**Technologies:** ASP.NET MVC, Entity Framework, SQL Server, GitHub Actions
 
 ### QRCodeScanner-MAUI
 Cross-platform QR code scanner application built with .NET MAUI, supporting camera-based scanning and structured QR data processing.
@@ -101,13 +89,13 @@ Git, GitHub, GitHub Actions, Azure DevOps
 
 ---
 
-## Currently Working On
+## Current Focus
 
-- ASP.NET Core modernization projects
-- Enterprise workflow solutions
-- Odoo ERP development
-- Business intelligence and reporting systems
-- Cross-platform .NET MAUI applications
+- Enterprise Application Modernization
+- Workflow Automation & Process Digitization
+- Odoo ERP Development
+- Business Intelligence & Reporting
+- Cross-Platform Applications with .NET MAUI
 
 ---
 
